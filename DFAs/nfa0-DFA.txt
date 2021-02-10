@@ -1,0 +1,1 @@
+{(0,p,pq),(1,p,p),(0,q,r),(1,q,r),(0,r,s),(1,r,0),(0,s,s),(1,s,s),(0,pq,pqr),(1,pq,pr),(0,pr,pqs),(1,pr,p),(0,ps,pqs),(1,ps,ps),(0,qr,rs),(1,qr,r),(0,qs,rs),(1,qs,rs),(0,rs,s),(1,rs,s),(0,pqr,pqrs),(1,pqr,pr),(0,pqs,pqrs),(1,pqs,prs),(0,prs,pqs),(1,prs,ps),(0,qrs,rs),(1,qrs,rs),(0,pqrs,pqrs),(1,pqrs,prs)}
