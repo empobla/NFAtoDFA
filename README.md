@@ -1,4 +1,9 @@
 # NFA to DFA
+A CLI program where the user inputs an NFA in a text file and the program properly converts the user's input NFA into a DFA with the same functionality as the original user's input NFA.
+
+## What I Learned
+- NFA to DFA Conversion
+- String Parsing
 
 ## Input
 
